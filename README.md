@@ -1,7 +1,7 @@
 -Hi, I’m @Areej17-01
 -I’m interested in data Science 
--I’m currently learning machine learing and computer vision.
-- 💞️ I’m looking to collaborate on ...
+-I’m currently learning machine learning and computer vision.
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me ...
 
 <!---

@@ -1,5 +1,4 @@
--Hi, I’m @Areej17-01
--I’m interested in data Science 
--I’m currently learning LLMs and computer vision.
-- 💞️ I’m looking to collaborate on data science projects
+-Hi, I’m **Areej Mehboob**
+-I’m currently working as NLP Researcher/ML engineer
+- 💞️ I’m open to colleborate and looking to collaborate on AI based projects
   
